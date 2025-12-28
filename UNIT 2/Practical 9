@@ -1,0 +1,21 @@
+<!-- Practical 9
+     Name: Sujal Pandey - 10405
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Responsive</title>
+    <style>
+        body { background: lightblue; }
+        @media (max-width:600px) {
+            body { background: pink; }
+        }
+    </style>
+</head>
+<body>
+
+Responsive Page
+
+</body>
+</html>
