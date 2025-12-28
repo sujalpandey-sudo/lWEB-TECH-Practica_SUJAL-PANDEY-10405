@@ -1,0 +1,19 @@
+<!-- Practical 6
+     Name: Sujal Pandey - 10405
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Types</title>
+    <style>
+        p { color: green; }
+    </style>
+</head>
+<body>
+
+<h1 style="color:red;">Inline CSS</h1>
+<p>Internal CSS</p>
+
+</body>
+</html>
