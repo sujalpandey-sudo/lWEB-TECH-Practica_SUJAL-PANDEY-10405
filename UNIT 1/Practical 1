@@ -1,0 +1,25 @@
+<!-- Practical 1
+     Name: Sujal Pandey - 10405
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Basic HTML Page</title>
+</head>
+<body>
+
+<h1>Welcome to My Web Page</h1>
+<h2>This is a Sub Heading</h2>
+
+<p>
+    Hello! My name is <b>Sujal Pandey</b>.
+    This is a simple HTML page using headings and formatting.
+</p>
+
+<p>
+    HTML stands for <strong>HyperText Markup Language</strong>.
+</p>
+
+</body>
+</html>
