@@ -1,0 +1,20 @@
+<!-- Practical 8
+     Name: Sujal Pandey - 10405
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Selectors</title>
+    <style>
+        #title { color: blue; }
+        .text { color: red; }
+    </style>
+</head>
+<body>
+
+<h1 id="title">ID Selector</h1>
+<p class="text">Class Selector</p>
+
+</body>
+</html>
